@@ -1,3 +1,4 @@
+![Screenshot 2021-05-24 at 13 33 05](https://user-images.githubusercontent.com/69000233/119342037-c9196b00-bc94-11eb-93e6-748e44b47f7b.png)
 ![Screenshot 2021-05-24 at 12 44 44](https://user-images.githubusercontent.com/69000233/119336426-f6164f80-bc8d-11eb-816a-b6d538cca5f7.png)
 ````
 Steg 1
