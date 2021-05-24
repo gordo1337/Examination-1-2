@@ -45,6 +45,7 @@ Beroende på om ändringen görs i
 Steg 4
 >>>> I listningskollumnen {Turkos} = ["Färdig"] finns det två valmöjligheter där man antingen kan {Gul} = ["Ändra"]  färdig syssla, även att {Röd} = ["Radera"].
 ````
+![Steg4](https://user-images.githubusercontent.com/69000233/119342737-cc612680-bc95-11eb-9538-85f154e9a3f7.png)
 ````
 [Ändringar] är markerade i {gul färg.} 
 
@@ -54,4 +55,16 @@ Steg 4
 
 [Sysslan] är markerad i {violett} 
 ````
-![Steg4](https://user-images.githubusercontent.com/69000233/119342737-cc612680-bc95-11eb-9538-85f154e9a3f7.png)
+`# Kanban Planering`
+![Kanbanschema](https://user-images.githubusercontent.com/69000233/119345469-37602c80-bc99-11eb-8af0-c0cc534bcac2.png)
+`````
+Jag använde mig av Kanbantekniken för att göra planeringen och processen av jobbet så aktuellt som möjligt med bra livefeedback.
+Arbetet är indelat i 6 kategorier samt 6 stycken processsteg. 
+`````
+`# Gantschema`
+![Gantschema](https://user-images.githubusercontent.com/69000233/119345965-ddac3200-bc99-11eb-870c-01955b84aedc.png)
+
+`````
+Gantschemat är mer i stil till ett devops schema, där jag lagt in alla delar från kanbanplaneringen i staplar. 
+`````
+
