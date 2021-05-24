@@ -1,3 +1,4 @@
+
 `# Övergripliga flowcharten`
 ![Screenshot 2021-05-24 at 12 44 44](https://user-images.githubusercontent.com/69000233/119343073-3c6fac80-bc96-11eb-8539-693935d6cdf9.png)
 ``````
@@ -58,7 +59,7 @@ Steg 4
 [Sysslan] är markerad i {violett} 
 ````
 `# Kanban Planering`
-![Kanbanschema](https://user-images.githubusercontent.com/69000233/119345469-37602c80-bc99-11eb-8af0-c0cc534bcac2.png)
+![Kanbanschema](https://user-images.githubusercontent.com/69000233/119347408-c9693480-bc9b-11eb-9468-638537e44167.png)
 `````
 Jag använde mig av Kanbantekniken för att göra planeringen och processen av jobbet så aktuellt som möjligt med bra livefeedback.
 Arbetet är indelat i 6 kategorier samt 6 stycken processsteg. 
