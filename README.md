@@ -1,10 +1,9 @@
 
-`# Övergripliga flowcharten`
-![Screenshot 2021-05-24 at 12 44 44](https://user-images.githubusercontent.com/69000233/119343073-3c6fac80-bc96-11eb-8539-693935d6cdf9.png)
+`# Övergripliga flowcharten`![Screenshot 2021-05-24 at 12 44 44](https://user-images.githubusercontent.com/69000233/119343073-3c6fac80-bc96-11eb-8539-693935d6cdf9.png)
 ``````
+
 ```````
-![Flowchart2](https://user-images.githubusercontent.com/69000233/119348885-bce5db80-bc9d-11eb-834b-fcf7027bd2cc.png)
-`# Detaljerade Flowcharten`
+`# Detaljerade Flowcharten`![Flowchart2](https://user-images.githubusercontent.com/69000233/119348885-bce5db80-bc9d-11eb-834b-fcf7027bd2cc.png)
 
 ````
 
