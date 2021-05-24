@@ -1,3 +1,4 @@
+![Screenshot 2021-05-24 at 12 44 44](https://user-images.githubusercontent.com/69000233/119336426-f6164f80-bc8d-11eb-816a-b6d538cca5f7.png)
 ````
 Steg 1
 >Användaren skriven in sin syssla i textfältet.
